@@ -1,11 +1,11 @@
 # SCAU - Source Code Analysis Utility
 
-This is a simple CLI utility to determine _input/output_ for efficient slicing and _security issues_ for further analysis.
+This is a simple CLI utility to determine _input/output_ for efficient slicing and _security issues_ for further analysis. The implementation is based on the basic principle discussed in my article [Source Code Analysis - A Beginners Guide](https://www.scip.ch/en/?labs.20140424).
 
 Example:
 
 ```bash
-mruef@debian:~$ ./scau.sh
+mruef@linux:~$ ./scau.sh
 Source Code Analysis Utility 3.1
 (c) 2007-2020 by Marc Ruef
 
